@@ -32,7 +32,7 @@
                     }
                     else
                     {
-                        echo "<script>window.open('page_connection.html','_self');</script>";
+                        echo "<script>window.open('index.html','_self');</script>";
                         
                     }
                 }
